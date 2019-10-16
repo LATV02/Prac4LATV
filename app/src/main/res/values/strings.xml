@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prac4LATV</string>
+    <string name="name">Ingresa tu Nombre</string>
+    <string name="Inombre">Ingresa tu nombre</string>
+    <string name="btnsaluda">Saludar</string>
+    <string name="lblnombre" />
+</resources>
